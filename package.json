@@ -1,0 +1,9 @@
+{
+  "name": "node-crawler-xray",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "x-ray": "^2.3.4"
+  }
+}
